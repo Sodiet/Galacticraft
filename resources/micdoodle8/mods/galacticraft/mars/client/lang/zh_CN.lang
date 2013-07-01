@@ -1,0 +1,41 @@
+# Galacticraft Mars Language File = SIMPLIFIED CHINESE
+# Translated by Glease,the translation of "Desh" may not be suitable
+# GENERAL ITEMS
+item.reinfocedBucket.name=强化桶
+item.reinfocedBucketMilk.name=强化牛奶桶
+item.reinfocedBucketWater.name=强化水桶
+item.reinfocedBucketLava.name=强化岩浆桶
+item.reinfocedBucketSludge.name=强化污泥桶
+item.rawDesh.name=Unrefined Desh
+item.deshStick.name=Desh Stick
+item.ingotDesh.name=Desh Ingot
+item.spaceshipTier2.name=高级火箭
+
+# TOOLS
+item.deshPick.name=黑岩稿
+item.deshAxe.name=黑岩斧
+item.deshHoe.name=黑岩锄
+item.deshSpade.name=黑岩锹
+item.deshSword.name=黑岩剑
+
+# ARMOR
+item.deshHelmet.name=黑岩盔
+item.deshChestplate.name=黑岩胸甲
+item.deshLeggings.name=黑岩护腿
+item.deshBoots.name=黑岩靴
+
+# BLOCKS
+tile.mars.deshmars.name=黑岩矿
+tile.mars.coppermars.name=铜矿
+tile.mars.tinmars.name=锡矿
+tile.mars.marscobblestone.name=圆石
+tile.mars.marsstone.name=石头
+tile.mars.marsdirt.name=土
+tile.mars.marsgrass.name=玻璃
+tile.mars.marsdeco.name=黑岩块
+tile.mars.marsdungeon.name=地牢壁砖
+
+# GUI
+gui.choosePlanet.desc.mars=宜居#无氧气#重力: 38%
+
+itemGroup.GalacticraftMars=星系Mod-火星
